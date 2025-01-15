@@ -23,7 +23,8 @@
 
 ### 🎥 Project Demo
 
-[▶️ Watch Demo](EscolaManager/Resources/videos/Escolamanager.mp4)
+[![EscolaManager Demo](https://github.com/user-attachments/assets/9437720a-ab01-4508-8dd7-c93bbc4768d5)](https://youtu.be/sXqFgK5E7Us)
+
 
 
 ## How to Run the Project 💻
