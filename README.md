@@ -21,9 +21,10 @@
 - **Database:** Local file storage (CSV/XML/JSON)  
 - **Architecture:** Object-Oriented Programming (OOP)  
 
-## Video Demonstration 🎥
-Watch the full demonstration of the **EscolaManager** application on YouTube:  
-📺 [Click here to watch the video](https://youtu.be/sXqFgK5E7Us)  
+### 🎥 Project Demo
+
+[▶️ Watch Demo](Resources/videos/Escolamanager.mp4)
+
 
 ## How to Run the Project 💻
 1. Clone the repository:  
