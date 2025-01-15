@@ -23,7 +23,7 @@
 
 ### 🎥 Project Demo
 
-[▶️ Watch Demo](Resources/videos/Escolamanager.mp4)
+[▶️ Watch Demo](EscolaManager/Resources/videos/Escolamanager.mp4)
 
 
 ## How to Run the Project 💻
